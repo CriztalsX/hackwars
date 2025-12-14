@@ -4,7 +4,7 @@ Ett multiplayer hacker-spel där du skyddar ditt konto och försöker hacka andr
 
 ## 🚀 Spela Nu
 
-Spelet är live på: [DIN-GITHUB-PAGES-URL]
+Spelet är live på: https://criztalsx.github.io/hackwars/
 
 ## ✨ Features
 
